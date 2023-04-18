@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/meriem-oinim-308ab7252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+ 
 
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MERYEMOINIM&theme=github-compact&hide_border=true&line=481A78&point=8C42D7&custom_title="/>
