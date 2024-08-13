@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Meriem, I'm a master degree student in physics and new technologies, I'm also a student in the ALX program of Software Engineering 
+### Hi there 👋 I'm Meriem, I'm a master degree student in new technologies, I'm also a student in the ALX program of Software Engineering 
 - 🔭 I’m currently working on C programming language
 - 🌱 I’m currently learning Artificial Intelligence
 
