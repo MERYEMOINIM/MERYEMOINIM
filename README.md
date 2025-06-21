@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Meriem, I'm a master degree student in new technologies, I'm also a student in the ALX program of Software Engineering 
-- 🔭 I’m currently working on C programming language
-- 🌱 I’m currently learning Artificial Intelligence
+### Hi there 👋 It's Meriem, I'm Software Engineer, I work on challenging projects and I love continuous learning
+- 🔭 I’m currently on a project of Fraud Dtection using Java/Ai and Data Engineering tools
+- 🌱 I’m currently a PhD student in Quantum Machine Learning, my subject is : Enhanced Quantum Machine Learning for large scale data analysis
 
 <div align="center">
   <a href="https://github.com/MERYEMOINIM">
