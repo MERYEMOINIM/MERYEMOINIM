@@ -1,5 +1,5 @@
 ### Hi there 👋 It's Meriem, I'm Software Engineer, I work on challenging projects and I love continuous learning
-- 🔭 I’m currently on a project of Fraud Dtection using Java/Ai and Data Engineering tools
+- 🔭 I’m currently working on a project of Fraud Dtection using Java/Ai and Data Engineering tools
 - 🌱 I’m currently a PhD student in Quantum Machine Learning, my subject is : Enhanced Quantum Machine Learning for large scale data analysis
 
 <div align="center">
